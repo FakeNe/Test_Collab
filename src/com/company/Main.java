@@ -17,6 +17,6 @@ public class Main {
         frame.setVisible(true);
     }
     private void start(){
-        System.out.println("Start");
+        System.out.println("Start main");
     }
 }
