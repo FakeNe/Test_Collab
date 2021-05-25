@@ -12,7 +12,7 @@ public class Main {
     public Main(){
         JFrame frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(200,200);
+        frame.setSize(400,400);
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
