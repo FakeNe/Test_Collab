@@ -9,12 +9,12 @@ public class Listener {
     private MouseAdapter mouseAdapter;
     private KeyAdapter keyAdapter;
 
-    public class Mouse{
+    public static class Mouse{
         int x, y;
         boolean pressed = false;
     }
 
-    public class Key{
+    public static class Key{
         boolean pressed = false;
     }
 
